@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/DOURAIBASMA/tp1/_apis/build/status/basmadourai.ContosoAir?branchName=master)](https://dev.azure.com/DOURAIBASMA/tp1/_build/latest?definitionId=4&branchName=master)
 
 # Microsoft.Github CI Demo
 
